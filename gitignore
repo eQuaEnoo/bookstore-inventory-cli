@@ -1,0 +1,7 @@
+# Local database (created on first run)
+ebookstore.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
